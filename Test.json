@@ -1,0 +1,6 @@
+# Create the test json
+test_json = {
+    "product": "MacBook Air",
+    "overall": "5.0",
+    "text": "I really love this computer"
+}
