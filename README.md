@@ -16,8 +16,8 @@ Prime Video was a platform for streaming movies and TV shows on Amazing Prime, t
 ## Project Steps
 There were two data sources: a scrape of Wikipedia for all movies released since 1990, and rating data from 
 the Movie Land’s website. I extracted the data from the two sources, transformed it into one clean data set, 
-and finally loaded that data set into a SQL table. I used Python, Jupyter Notebook and Pandas to perform data 
-wrangling, and Postgres SQL to store the finished data. </p>
+and finally loaded that data set into a SQL database. I used Python, Jupyter Notebook and Pandas to perform data 
+wrangling, and PostgresSQL to store the finished data. </p>
 
 ## Challenges
 I experienced challenges in learning steps to complete the ETL process. This included understanding and 
