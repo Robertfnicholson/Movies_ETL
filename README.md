@@ -1,6 +1,6 @@
 # Movies Extract, Transform and Load (ETL) Challenge
 ## Overview of Project
-This challenge involved learning about and implementing the data pipeline process known as ETL. This is 
+This challenge involved implementing the data pipeline process known as ETL. This is 
 the workhorse for moving information between databases. ETL is a core concept in data engineering 
 ensuring that data is consistent and maintains its integrity. Without consistent, robust data, any form of 
 analysis is impossible. A well-designed ETL pipeline strives to automate as much data wrangling as it can. 
